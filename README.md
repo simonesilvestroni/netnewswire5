@@ -9,6 +9,15 @@ It features the same typography used of other interfaces I've been using:
 - Seravek for headings and UI elements
 - Iowan Old Style for body copy
 
+## Installation
+
+- Go to `/Applications/`
+- Find `NetNewsWire.app`
+- Right-click and choose <kbd>Show Package Contents</kbd>
+- Open `Contents`
+- Open `Resources`
+- Copy `styleSheet.css`
+
 ## Examples
 
 ![NetNewsWire 5 theme, a page](/assets/netnewswire5-1.jpg "NetNewsWire 5 theme, a page")
