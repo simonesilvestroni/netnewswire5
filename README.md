@@ -20,8 +20,8 @@ It features the same typography used of other interfaces I've been using:
 
 ## Examples
 
-![NetNewsWire 5 theme, a page](/assets/netnewswire5-1.jpg "NetNewsWire 5 theme, a page")
+![NetNewsWire 5 theme, a page](assets/netnewswire5-1.jpg "NetNewsWire 5 theme, a page")
 
 ***
 
-![NetNewsWire 5 theme, a page with blockquotes](/assets/netnewswire5-2.jpg "NetNewsWire 5 theme, a page with blockquotes")
+![NetNewsWire 5 theme, a page with blockquotes](assets/netnewswire5-2.jpg "NetNewsWire 5 theme, a page with blockquotes")
