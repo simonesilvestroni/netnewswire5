@@ -9,7 +9,7 @@ It features the same typography used of other interfaces I've been using:
 - Seravek for headings and UI elements
 - Iowan Old Style for body copy
 
-## Example
+## Examples
 
 ![NetNewsWire 5 theme, a page](/assets/netnewswire5-1.jpg "NetNewsWire 5 theme, a page")
 
