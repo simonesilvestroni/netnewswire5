@@ -367,6 +367,8 @@ a.footnote:hover,
 		padding-right: 48px;
 		font-family: var(--serif);
 		font-size: 19px;
+		color: var(--body-color);
+		background-color: var(--body-bg-color);
 	}
 
 	body p {
@@ -381,6 +383,8 @@ a.footnote:hover,
 		color-scheme: light dark;
 		--accent-color: rgba(8, 106, 238, 1);
 		--block-quote-border-color: rgba(8, 106, 238, .50);
+		--body-bg-color: #fafafa;
+		--body-color: #222;
 	}
 
 	@media(prefers-color-scheme: dark) {
@@ -388,6 +392,8 @@ a.footnote:hover,
 			--accent-color: rgba(94, 158, 244, 1);
 			--block-quote-border-color: rgba(94, 158, 244, .50);
 			--header-table-border-color: rgba(255, 255, 255, 0.1);
+			--body-bg-color: #222;
+			--body-color: #d5d5d5;
 		}
 	}
 
@@ -403,6 +409,13 @@ a.footnote:hover,
 	pre {
 		border: 1px solid var(--accent-color);
 		padding: 10px;
+	}
+
+	ul li, ol li {
+		margin-bottom: 10px;
+	}
+	ul li:last-child, ol li:last-child {
+		margin-bottom: 0;
 	}
 
 	.nnw-overflow table {

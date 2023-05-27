@@ -20,8 +20,18 @@ It features the same typography used of other interfaces I've been using:
 
 ## Examples
 
-![NetNewsWire 5 theme, a page](assets/netnewswire5-1.jpg "NetNewsWire 5 theme, a page")
+### Prefer: bright
+
+![NetNewsWire 5 theme, bright mode](assetsnetnewswire5-1-bright.png)
 
 ***
 
-![NetNewsWire 5 theme, a page with blockquotes](assets/netnewswire5-2.jpg "NetNewsWire 5 theme, a page with blockquotes")
+![NetNewsWire 5 theme, bright mode](netnewswire5-2-bright.png)
+
+### Prefer: dark
+
+![NetNewsWire 5 theme, dark mode](netnewswire5-1-dark.png)
+
+***
+
+![NetNewsWire 5 theme, dark mode](netnewswire5-2-dark.png)
