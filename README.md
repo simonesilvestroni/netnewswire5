@@ -22,16 +22,16 @@ It features the same typography used of other interfaces I've been using:
 
 ### Prefer: bright
 
-![NetNewsWire 5 theme, bright mode](assetsnetnewswire5-1-bright.png)
+![NetNewsWire 5 theme, bright mode](./assets/netnewswire5-1-bright.png)
 
 ***
 
-![NetNewsWire 5 theme, bright mode](netnewswire5-2-bright.png)
+![NetNewsWire 5 theme, bright mode](./assets/netnewswire5-2-bright.png)
 
 ### Prefer: dark
 
-![NetNewsWire 5 theme, dark mode](netnewswire5-1-dark.png)
+![NetNewsWire 5 theme, dark mode](./assets/netnewswire5-1-dark.png)
 
 ***
 
-![NetNewsWire 5 theme, dark mode](netnewswire5-2-dark.png)
+![NetNewsWire 5 theme, dark mode](./assets/netnewswire5-2-dark.png)
