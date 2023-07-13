@@ -40,8 +40,9 @@ a:hover {
 	--article-title-color: #333;
 	--article-date-color: rgba(0, 0, 0, 0.3);
 	--table-cell-border-color: lightgray;
-	--serif: "Iowan Old Style", serif;
-	--sans-serif: "Seravek", sans-serif;
+	--serif: 'Georgia', serif;
+	--sans-serif: 'system-ui', sans-serif;
+	--font-headings: 'Georgia', serif;
 }
 
 @media(prefers-color-scheme: dark) {
@@ -105,6 +106,7 @@ body > .systemMessage {
 
 .articleDateline {
 	font-family: var(--sans-serif);
+	font-size: smaller;
 	color: var(--article-date-color);
 	margin-bottom: 5px;
 }
@@ -276,8 +278,8 @@ blockquote {
 	margin-inline-end: 3rem;
 	padding-inline-start: 15px;
 	border-left: 2px solid var(--block-quote-border-color);
-	font-style: italic;
-	font-size: larger;
+	font-style: normal;
+	font-family: var(--font-headings);
 }
 
 cite {
@@ -365,7 +367,7 @@ a.footnote:hover,
 		margin-bottom: 64px;
 		padding-left: 48px;
 		padding-right: 48px;
-		font-family: var(--serif);
+		font-family: var(--sans-serif);
 		font-size: 19.5px;
 		color: var(--body-color);
 		background-color: var(--body-bg-color);
@@ -376,7 +378,11 @@ a.footnote:hover,
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		font-family: var(--sans-serif);
+		font-family: var(--font-headings);
+		font-weight: normal;
+		text-transform: lowercase;
+		font-variant: small-caps;
+		letter-spacing: 1px;
 	}
 
 	:root {
